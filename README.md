@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Eduardo Rios</h1>
 
 # 💫 Sobre mi:
-⚡ Ingeniero en Ciencias de la Computación.<br>⚡Desarrollador web Full Stack.<br>⚡Técnico en Informática.<br><br>🔶Soy una persona con una pasión por el mundo de la programación.<br>🔶No me quedo en mi zona de confort por lo que me gustan los retos y las nuevas experiencias.<br> <br><br>
+⚡ Ingeniero en Ciencias de la Computación.<br>⚡ Desarrollador web Full Stack.<br>⚡ Técnico en Informática.<br><br>🔶 Soy una persona con una pasión por el mundo de la programación.<br>🔶 No me quedo en mi zona de confort por lo que me gustan los retos y las nuevas experiencias.<br> <br><br>
 
 ## 🌐 Contactame:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rios-jaen/)
